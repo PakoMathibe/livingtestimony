@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Living Testimony",
-    "currentPage": "contact.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -43,7 +43,7 @@
     "gdpr": "",
     "siteUrl": "undefined",
     "uniqCompNum": 39,
-    "versionPublish": "4.8.3",
+    "versionPublish": "4.9.6",
     "screenshot": "screenshot.png"
   },
   "pages": {
